@@ -6,7 +6,7 @@ working group aims to define software interface specifciations for functions tha
 ensure network integrity, confidentiality and availability so that one implementors
 can translate well defined user requirements into enforcable policies.
 
-The programs in this repository are related to the following documents
+The YANG data models in this repository are related to the following documents:
 
 * I2NSF Capability YANG Data Model
  [draft-ietf-i2nsf-capability-data-model-32](https://datatracker.ietf.org/doc/draft-ietf-i2nsf-capability-data-model/)
